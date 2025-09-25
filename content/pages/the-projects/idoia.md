@@ -33,7 +33,7 @@ Learn More About the Project from Idoia
 Continuing the Work Post-MIT
 ----------------------------
 
-"{{% resource_link "203b5968-1568-4654-97c1-475c4ff89e4b" "Manuel Muniz introduces Idoia Ortiz de Antinano, PublicTech Lab Managing Director" %}}." September 27, 2018. Vimeo. This video is from {{% resource_link "2909fd0f-0ba5-49b9-9fc7-ddca3079ea83" "_IE Communications_" %}} and is not covered by our [Creative Commons license](/terms/#cc).
+"[Manuel Muniz introduces Idoia Ortiz de Antinano, PublicTech Lab Managing Director](https://vimeo.com/292089577)." September 27, 2018. Vimeo. This video is from [_IE Communications_](https://vimeo.com/user78640134) and is not covered by our [Creative Commons license](/terms/#cc).
 
 Idoia Introduces Her Project in Spanish
 ---------------------------------------

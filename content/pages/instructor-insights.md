@@ -37,11 +37,11 @@ In the following video and Chalk Radio podcast episode, Dr. Anjali Sastry descri
 
 ### Prerequisites
 
-This course has no specific prerequisites, but permission of the instructor is required for registration. Limited to students enrolled in the {{% resource_link "0f8ebbe1-a64a-4b5b-9304-e94d1565afc9" "Sloan Fellows MBA Program" %}}.
+This course has no specific prerequisites, but permission of the instructor is required for registration. Limited to students enrolled in the [Sloan Fellows MBA Program](http://mitsloan.mit.edu/fellows/).
 
 ### Requirements Satisfied
 
-15.960 can be applied toward a {{% resource_link "efe52966-4745-4e78-b8ff-3d54e03d5fc6" "Master's of Business Administration" %}}, but is not required.
+15.960 can be applied toward a [Master's of Business Administration](http://mitsloan.mit.edu/fellows/academic-experience/program-at-a-glance/), but is not required.
 
 ### Offered
 

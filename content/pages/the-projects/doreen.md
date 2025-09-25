@@ -17,7 +17,7 @@ Project Overview
 
 {{< quote "For me it was MIT, but for anyone else it could be anything—it's just a matter of figuring out what you have in your own ecosystem, and then using that to your advantage." " —Doreen Mashu, SFMBA '18" >}}
 
-Having applied for a {{% resource_link "1ce8d3c6-eb94-427a-a778-cf33c886f79a" "Legatum Fellowship" %}} before arriving on campus, Doreen used classes, networks, funding, and access to expert mentors and potential investors from the Legatum Center, the Sloan Fellows program, and across MIT to explore her ideas. She conducted research on campus and in the field over MIT's Independent Activities Period (IAP) with the aim of launching her new business to meet emerging needs and improve livelihoods, nutrition, and wealth creation in sub-Saharan Africa. Supply chain, manufacturing, product design, marketing, entrepreneurship, and financing all come into play.
+Having applied for a [Legatum Fellowship](http://legatum.mit.edu/resources/legatum-fellowships/) before arriving on campus, Doreen used classes, networks, funding, and access to expert mentors and potential investors from the Legatum Center, the Sloan Fellows program, and across MIT to explore her ideas. She conducted research on campus and in the field over MIT's Independent Activities Period (IAP) with the aim of launching her new business to meet emerging needs and improve livelihoods, nutrition, and wealth creation in sub-Saharan Africa. Supply chain, manufacturing, product design, marketing, entrepreneurship, and financing all come into play.
 
 Her studies here at MIT taught her to consider the challenges in managing quality and maximizing her enterprise’s ability to learn from its own experience.
 
