@@ -1,0 +1,85 @@
+leftnav:
+- identifier: 6f1265ce-52d4-c510-c760-cefd1310a99a
+  name: Course Overview
+  pageRef: /pages/overview
+  weight: 10
+- identifier: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 1d466add-2c73-0e38-9f76-81575115c5e7
+  name: The Projects
+  pageRef: /pages/the-projects/
+  weight: 30
+- identifier: 32769233-f292-8bf9-b170-2747acca58be
+  name: Creating a set of projects that link technology and social impact
+  pageRef: /resources/creating-a-set-of-projects
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 10
+- identifier: a2e8625b-b18a-58ed-cb14-33ab4dc977fe
+  name: Project examples
+  pageRef: /resources/project-examples
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 20
+- identifier: c92ff9ca-f027-810d-ef24-149df6d8ef9e
+  name: "Behind-the-scenes logistics of supporting students\u2019 work"
+  pageRef: /resources/behind-the-scenes-logistics-of-supporting-students2019-work
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 30
+- identifier: 32191ee4-f4c0-53e8-22d4-9d17f294690f
+  name: Is this scalable?
+  pageRef: /resources/is-this-scalable
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 40
+- identifier: e4ab0a13-e8d5-b947-e4e4-a6518db5de90
+  name: 'Measuring success: anchoring passion projects with academic rigor'
+  pageRef: /resources/measuring-success
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 50
+- identifier: ab761f1c-5243-9b48-8eee-5a0e6764fb45
+  name: 'Insights into emerging ideas: how teaching this way benefits the instructor
+    as researcher'
+  pageRef: /resources/insights-into-emerging-ideas
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 60
+- identifier: ff4f7eaf-c009-6bca-addf-cfe1435b727c
+  name: Networking with a purpose
+  pageRef: /resources/networking-with-a-purpose
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 70
+- identifier: 59e70fcf-b309-ccfa-a222-72d614b79550
+  name: 'Iterating on a new learning experience: creating frameworks and opting in'
+  pageRef: /resources/iterating-on-a-new-learning-experience
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 80
+- identifier: 69a87f2d-a396-9e77-92cf-90c5cfe7198e
+  name: How far are you willing to go outside your area of expertise?
+  pageRef: /resources/how-far-are-you-willing-to-go-outside-your-area-of-expertise
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 90
+- identifier: bf7d8f8b-ea65-f63a-11fc-a3bdc7a39d9e
+  name: Are you open to supporting a diversity of projects, or do you prefer clustered
+    projects?
+  pageRef: /resources/supporting-a-diversity-of-projects
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 100
+- identifier: 8d49135f-ac0d-d069-8d0c-6c99f0b1e851
+  name: Words of advice for educators trying this, too
+  pageRef: /resources/words-of-advice-for-educators-trying-this-too
+  parent: 01ed4036-4971-1d69-1f8b-5f33e31948a5
+  weight: 110
+- identifier: 6e519cf4-8ff2-4e4d-3420-3a9f41ddec14
+  name: Using Technology to Improve Small Farming in Brazil
+  pageRef: /pages/the-projects/aline
+  parent: 1d466add-2c73-0e38-9f76-81575115c5e7
+  weight: 10
+- identifier: ed4a5f75-f358-1e9f-b2a5-5e186ef4eb19
+  name: Innovations Across the Agriculture Value Chain
+  pageRef: /pages/the-projects/doreen
+  parent: 1d466add-2c73-0e38-9f76-81575115c5e7
+  weight: 20
+- identifier: ee8024da-2bfd-36f9-6ec8-9b9c0c308165
+  name: Public Tech Innovation with Real-world Implementation
+  pageRef: /pages/the-projects/idoia
+  parent: 1d466add-2c73-0e38-9f76-81575115c5e7
+  weight: 30

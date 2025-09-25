@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "868913e1-c9e0-96e7-c248-a6e9420231fa",
+  "instructors": {
+    "content": [
+      "e9f1bf72-c40e-b762-0f5a-6cf11e06d9bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1f9ff7c8-7438-d41a-064f-cd6b9a92589f",
+    "website": "15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018"
+  },
+  "course_title": "New Executive Thinking Social-Impact Technology Projects",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This customized independent study course puts [Sloan Fellows MBA](http://mitsloan.mit.edu/fellows/)\u00a0students into direct contact with innovators tackling global needs in education, healthcare, and energy/environment. Co-designed projects address low-income markets in the U.S. or globally, focusing on the application of new ideas and technology rooted in MIT innovations or the Boston ecosystem. Every project aims to develop better ways for the right innovations to reach scale, sustainability, and quality, thereby improving lives and uncovering opportunities in underserved markets.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.960",
+  "course_image_thumbnail": {
+    "content": "8fa60bf6-6e43-ec81-f239-c4390fb39cd4",
+    "website": "15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018"
+  },
+  "learning_resource_types": [
+    "Other Video",
+    "Projects with Examples",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "1a1d84d3-45b4-4c27-ba0f-76dc05e7dbb4",
+  "site_short_id": "15.960-fall-2017",
+  "site_url_path": "courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018",
+  "title": "Course Metadata"
+}
