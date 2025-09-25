@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/3030c95cb44dcd18bf3549db248b129c_insights-into-emerging-ideas.jpg
 file_size: 360228
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
