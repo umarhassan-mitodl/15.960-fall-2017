@@ -4,8 +4,6 @@ description: ''
 file: /courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/4b8544d0719741136bb7f9900e39b3a6_creating-projects.jpg
 file_size: 96089
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
